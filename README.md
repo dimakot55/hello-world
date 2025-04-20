@@ -16,3 +16,9 @@ https://github.com/dimakot55/hello-world/blob/master/video_fruits_ours_full_web2
 https://www.dropbox.com/scl/fi/07xjn8mat80pf5eug323h/video_fruits_ours_full_web2.mp4?rlkey=51t0jsgkdff7hajf15n5dsn39&st=gklufrqu&dl=0
 
 [![Watch the demo]https://www.dropbox.com/scl/fi/07xjn8mat80pf5eug323h/video_fruits_ours_full_web2.mp4?rlkey=51t0jsgkdff7hajf15n5dsn39&e=1&st=osvniz8w&dl=0
+
+
+https://github.com/dimakot55/hello-world/blob/master/video_fruits_ours_full_web.mov
+
+
+<source src="https://github.com/dimakot55/hello-world/blob/master/video_fruits_ours_full_web.mov" type="video/mov" />
